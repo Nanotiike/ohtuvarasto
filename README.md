@@ -1,3 +1,3 @@
 # ohtuvarasto
 
-! [Badge](https://github.com/Nanotiike/ohtuvarasto/blob/main/.github/workflows/main.yml/badge.svg)
+![Workflow Badge](https://github.com/Nanotiike/ohtuvarasto/workflows/CI/badge.svg)
